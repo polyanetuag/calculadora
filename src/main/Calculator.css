@@ -1,7 +1,7 @@
 .calculator {
   height: 320px;
   width: 235px;
-  border-radius: 5px;
+  border-radius: 10px;
   overflow: hidden;
 
   display: grid;
