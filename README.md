@@ -1,7 +1,7 @@
 <h1 align="center">Calculadora em ReactJs</h1>
 
 <div align="center">
-    <img width= '300' src="./public/Aplication.gif">
+    <img width= '200' src="./public/Aplication.gif">
 </div>
 
 ## 📚 Sobre
