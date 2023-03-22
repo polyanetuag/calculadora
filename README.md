@@ -1,7 +1,7 @@
 <h1 align="center">Calculadora em ReactJs</h1>
 
 <div align="center">
-    <img width= '200' src="./public/Aplication.gif">
+    <img width='300' src="./public/Aplication.gif">
 </div>
 
 ## 📚 Sobre
@@ -11,8 +11,8 @@ Construção de uma calculadora para a prática na tecnologia ReactJs
 - ReactJs
 ## ⏱️ Iniciar projeto
 
-Primeiro, clone o repositório:
 ```bash
+#Primeiro, clone o repositório:
 https://github.com/polyanetuag/calculadora
 
 # Instale as dependências
