@@ -12,7 +12,7 @@ Construção de uma calculadora para a prática em ReactJs.
 ## ⏱️ Iniciar projeto
 
 ```bash
-#Primeiro, clone o repositório:
+# Clone o repositório:
 https://github.com/polyanetuag/calculadora
 
 # Instale as dependências
