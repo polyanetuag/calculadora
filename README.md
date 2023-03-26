@@ -1,4 +1,4 @@
-<h1 align="center">Calculadora em ReactJs</h1>
+<h1 align="center">Calculadora</h1>
 
 <div align="center">
     <img width='375' src="./public/demo.gif">
