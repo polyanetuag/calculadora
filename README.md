@@ -9,6 +9,7 @@ Construção de uma calculadora para a prática na tecnologia ReactJs.
 
 ## 🚀 Tecnologias Utilizadas
 - ReactJs
+- Js
 - Css
 ## ⏱️ Iniciar projeto
 
