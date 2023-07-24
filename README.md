@@ -5,7 +5,7 @@
 </div>
 
 ## 📚 Sobre
-Construção de uma calculadora para a prática na tecnologia ReactJs.
+Construção de uma calculadora para a prática de componentização na tecnologia ReactJs.
 
 ## 🚀 Tecnologias Utilizadas
 - ReactJs
